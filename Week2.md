@@ -68,22 +68,22 @@ Part 2: Find Bugs and Debugs
 
 1. Failure Inducing-Input
 
-![screenshot](images/FailedTestRevered.png);
+![screenshot](images/FailedTestReversed.png);
 Symptoms: The reversed test was expected <8> but was return <0> because the array didn't reversed the value as it mentioned in the function.
 
 ![screenshot](images/FailedTestReveredInPlace.png);
 
 Symptoms: The Reversed In Place Test was supposed to update index 2 and index 0 when it reversed. However, the value didn't update or keep the old values.
 
-![screenshot](images/Systomstestfailed.png);
-Symptoms: The bug was expected [school, stressful] but was [stresfful, school] when it searched for the string("s"). It only returns normal elements and not filtered the elements in the array.
+![screenshot](images/Symptomstestfailed.png);
+Symptoms: The bug was expected [school, stressful] but was [stressful, school] when it searched for the string("s"). It only returns normal elements and not filtered the elements in the array.
 
 Fixed Code:
 
 ![screenshot](images/Reversed.png);
 Symptoms:
 
-![screenshot](images/reveredInPlace.png);
+![screenshot](images/reverseInPlace.png);
 
 Symptoms:
 
