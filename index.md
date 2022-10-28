@@ -2,12 +2,9 @@ Name: Thi Tran PID: A16211852
 
 1. Installing VScode
    I have installed Visual Studio Code before so this process is quite easy for me. First, I searched VSCode on Google and clicked download that matches with my Operational Systems.
-   
 
 2. Remotely Connecting
    I have installed Visual Studio Code before so this process is quite easy for me. First, I searched VSCode on Google and clicked download that matches with my Operational Systems.
-   
-   
 
 First of all, I created a new password using the provided link from the CSE15L page. I waited for a while(approximately more than 15 mins) to log into the terminal. Unfortunately, the terminal was not working. I was denied permission access after trying to enter the password multiple times. For that reason, I used the TA account and it worked as I had screenshot it below. 3. Trying Some Commands
 After using the TA account, I was successfully connected. I input some commands into the terminal(using the example one that was provided). Below is the screenshot that I was able to run in the terminal.
@@ -19,3 +16,7 @@ After using the TA account, I was successfully connected. I input some commands 
 
 6. Optimizing Remote Running
    I run the ssh command using the given format. As a result, I only need to input a password into the terminal and it quickly runs into the file. I don’t need to type long commands in order get into the file and server.
+
+Link to week 1 lab: [report](Week1.md)
+
+Link to week 2 lab: [report](Week2.md)
