@@ -81,10 +81,7 @@ Symptoms: The bug was expected [school, stressful] but was [stressful, school] w
 Fixed Code:
 
 ![screenshot](images/Reversed.png);
-Symptoms:
 
 ![screenshot](images/reverseInPlace.png);
-
-Symptoms:
 
 ![screenshot](images/Fixedcode.png);
