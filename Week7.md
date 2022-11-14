@@ -1,13 +1,13 @@
 Part 1:
 
-1. vim DocSearchServer.java <Enter>
+1. vim DocSearchServer.java `Enter`
    ![screenshot](images/openfile.png)
-2. /start <Enter> (this will search the word start inside the file)
-3. <i> (insert the word and make edit from start to base) <esc>
+2. /start `Enter` (this will search the word start inside the file)
+3. `i` (insert the word and make edit from start to base) `esc`
 4. n. (searching for the word start)
-5. <i> (insert the word and make edit from start to base) <esc>
+5. `i` (insert the word and make edit from start to base) `esc`
 6. n.
-7. <i> (insert the word and make edit from start to base) <esc>
+7. `i` (insert the word and make edit from start to base) `esc`
    ![screenshot](images/base.png)
 8. Shift zz (this will save all the edits and back to the terminal.
    ![screenshot](images/Terminal.png)
